@@ -1,0 +1,27 @@
+{
+  "name": "blended-3-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate": "node src/scripts/generateProducts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dima1310/blended-3-5.git"
+  },
+  "keywords": [],
+  "author": "Dmytrii Ponomarenko <dimaponomarenko13101981@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dima1310/blended-3-5/issues"
+  },
+  "homepage": "https://github.com/dima1310/blended-3-5#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "@faker-js/faker": "^10.0.0",
+    "eslint": "^9.35.0",
+    "globals": "^16.3.0"
+  }
+}

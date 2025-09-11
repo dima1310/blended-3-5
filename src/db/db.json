@@ -1,0 +1,167 @@
+[
+  {
+    "id": "531ff781-e983-470c-8942-80549b7b9e6b",
+    "name": "Unbranded Marble Shirt",
+    "price": 723.8,
+    "description": "Larson, Gorczany and Bartoletti's most advanced Shirt technology increases rosy capabilities",
+    "category": "Industrial",
+    "inStock": false,
+    "rating": 0.1,
+    "createdAt": "2025-09-07T07:55:32.590Z",
+    "updatedAt": "2025-09-06T13:14:05.666Z"
+  },
+  {
+    "id": "adedea40-e34f-43fc-aa58-9dc0fae08652",
+    "name": "Frozen Silk Sausages",
+    "price": 60.35,
+    "description": "Featuring Tellurium-enhanced technology, our Mouse offers unparalleled joyous performance",
+    "category": "Sports",
+    "inStock": true,
+    "rating": 1.4,
+    "createdAt": "2025-09-06T17:55:10.613Z",
+    "updatedAt": "2025-09-07T04:18:01.378Z"
+  },
+  {
+    "id": "dfea724d-884c-4873-9587-a72c4d8c5b6f",
+    "name": "Fresh Bronze Pants",
+    "price": 638.85,
+    "description": "Ratke LLC's most advanced Fish technology increases hefty capabilities",
+    "category": "Grocery",
+    "inStock": true,
+    "rating": 0.9,
+    "createdAt": "2025-09-06T15:21:17.910Z",
+    "updatedAt": "2025-09-06T21:08:29.190Z"
+  },
+  {
+    "id": "bc717939-f37d-44ab-878a-d2aa279d18dd",
+    "name": "Ergonomic Granite Pizza",
+    "price": 260.2,
+    "description": "The Visionary dynamic algorithm Cheese offers reliable performance and squiggly design",
+    "category": "Kids",
+    "inStock": false,
+    "rating": 3.4,
+    "createdAt": "2025-09-06T18:29:14.658Z",
+    "updatedAt": "2025-09-07T07:50:41.902Z"
+  },
+  {
+    "id": "8951e8c8-e567-4f45-8d62-b8d4a151b8fb",
+    "name": "Gorgeous Bronze Tuna",
+    "price": 260.95,
+    "description": "Discover the mad new Sausages with an exciting mix of Metal ingredients",
+    "category": "Garden",
+    "inStock": false,
+    "rating": 3.6,
+    "createdAt": "2025-09-06T16:38:37.830Z",
+    "updatedAt": "2025-09-06T18:02:46.168Z"
+  },
+  {
+    "id": "549a2762-8329-4baf-bb91-64b89498b532",
+    "name": "Incredible Granite Chips",
+    "price": 926.12,
+    "description": "New Cheese model with 99 GB RAM, 492 GB storage, and similar features",
+    "category": "Industrial",
+    "inStock": false,
+    "rating": 3.7,
+    "createdAt": "2025-09-07T09:17:53.371Z",
+    "updatedAt": "2025-09-06T12:25:21.648Z"
+  },
+  {
+    "id": "c8527a2d-0b4b-4d71-9ee9-df2a9d6d0b95",
+    "name": "Bespoke Rubber Car",
+    "price": 224.19,
+    "description": "New maroon Computer with ergonomic design for hollow comfort",
+    "category": "Clothing",
+    "inStock": false,
+    "rating": 0.7,
+    "createdAt": "2025-09-06T17:16:13.599Z",
+    "updatedAt": "2025-09-07T08:30:15.393Z"
+  },
+  {
+    "id": "1b7aea1a-2e3a-4325-8cc0-b6056a74351b",
+    "name": "Frozen Gold Pants",
+    "price": 57.45,
+    "description": "Savor the fluffy essence in our Shoes, designed for defensive culinary adventures",
+    "category": "Beauty",
+    "inStock": false,
+    "rating": 4.1,
+    "createdAt": "2025-09-06T10:41:52.756Z",
+    "updatedAt": "2025-09-06T18:10:01.391Z"
+  },
+  {
+    "id": "af0dc65b-9eb5-448d-aa6a-eb38035d473d",
+    "name": "Frozen Concrete Car",
+    "price": 917.09,
+    "description": "Discover the greedy new Shirt with an exciting mix of Silk ingredients",
+    "category": "Home",
+    "inStock": false,
+    "rating": 0.4,
+    "createdAt": "2025-09-06T11:18:02.695Z",
+    "updatedAt": "2025-09-06T12:53:27.649Z"
+  },
+  {
+    "id": "e643bf76-af70-4422-bb22-764caf7e7e40",
+    "name": "Tasty Rubber Shoes",
+    "price": 148.75,
+    "description": "Unbranded Cheese designed with Steel for fluffy performance",
+    "category": "Movies",
+    "inStock": true,
+    "rating": 2,
+    "createdAt": "2025-09-06T11:49:10.067Z",
+    "updatedAt": "2025-09-07T08:02:41.032Z"
+  },
+  {
+    "id": "ba08c530-2b7a-4696-af33-37779e4e94a0",
+    "name": "Ergonomic Silk Chips",
+    "price": 862.85,
+    "description": "The Digitized high-level moratorium Soap offers reliable performance and same design",
+    "category": "Baby",
+    "inStock": true,
+    "rating": 4.2,
+    "createdAt": "2025-09-06T22:02:36.040Z",
+    "updatedAt": "2025-09-07T10:43:15.018Z"
+  },
+  {
+    "id": "c15b11fa-4eee-457c-9f1d-1fdbcf1a6dec",
+    "name": "Soft Ceramic Car",
+    "price": 643.19,
+    "description": "Featuring Holmium-enhanced technology, our Mouse offers unparalleled shoddy performance",
+    "category": "Baby",
+    "inStock": false,
+    "rating": 1.2,
+    "createdAt": "2025-09-06T12:10:47.999Z",
+    "updatedAt": "2025-09-06T13:51:37.871Z"
+  },
+  {
+    "id": "5b92602b-6b8e-418e-9d37-d80fad10eaba",
+    "name": "Handcrafted Aluminum Bacon",
+    "price": 514.2,
+    "description": "Discover the limp new Chicken with an exciting mix of Bamboo ingredients",
+    "category": "Health",
+    "inStock": false,
+    "rating": 0,
+    "createdAt": "2025-09-06T20:12:48.842Z",
+    "updatedAt": "2025-09-06T17:59:16.353Z"
+  },
+  {
+    "id": "cdbd2d26-755a-418e-82f2-10e8de047b21",
+    "name": "Rustic Ceramic Shirt",
+    "price": 461.55,
+    "description": "New Shoes model with 67 GB RAM, 460 GB storage, and orderly features",
+    "category": "Sports",
+    "inStock": false,
+    "rating": 2.6,
+    "createdAt": "2025-09-06T20:23:35.740Z",
+    "updatedAt": "2025-09-07T02:20:01.453Z"
+  },
+  {
+    "id": "6546bec8-35b0-4999-9838-8b69d4ff2a97",
+    "name": "Incredible Bronze Chicken",
+    "price": 419.75,
+    "description": "Modern Sausages designed with Marble for stylish performance",
+    "category": "Kids",
+    "inStock": false,
+    "rating": 0.9,
+    "createdAt": "2025-09-06T16:35:03.124Z",
+    "updatedAt": "2025-09-06T14:02:36.774Z"
+  }
+]
